@@ -7,3 +7,6 @@
 * Node js
 * Express js
 * Mongodb for database
+
+### Deployment
+* Vercel
