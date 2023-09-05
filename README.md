@@ -6,4 +6,4 @@
 ## Technologies used for backend and database
 * Node js
 * Express js
-* Mongodb fro database
+* Mongodb for database
