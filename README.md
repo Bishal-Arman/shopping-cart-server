@@ -6,7 +6,7 @@
 ## Technologies used for backend and database
 * Node js
 * Express js
-* Mongodb for database
+* MongoDB for database
 
 ### Deployment
 * Vercel
